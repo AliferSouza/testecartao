@@ -1,0 +1,14 @@
+.button-pedir{    
+    position: fixed; 
+    right: 6rem;
+    top: 1rem;
+    background: #fa7921;
+    padding: 5px 10px 5px 10px ;
+    border-radius:10px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    gap: 0.5rem;
+
+}
+
